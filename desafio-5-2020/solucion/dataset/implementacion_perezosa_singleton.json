@@ -1,0 +1,5 @@
+{
+    "title": "Implementación Singleton Perezosa",
+    "url": "https://experto.dev/patron-de-diseno-java-singleton/",
+    "body": "Podemos pensar en otra implementación en la que realmente se cree el objeto cuando se lo requiera. Para esto la variable permanece nula y la inicializamos la primera vez que se invoque el método getInstance()"
+}

@@ -1,0 +1,5 @@
+{
+    "title": "¿Qué son las directivas?",
+    "url": "https://guru99.es/java-interface/",
+    "body": "Una interfaz es como Java Class, pero solo tiene constantes estáticas y método abstracto. Java usa la interfaz para implementar herencia múltiple. Una clase Java puede implementar múltiples interfaces Java. Todos los métodos en una interfaz son implícitamente públicos y abstractos."
+}

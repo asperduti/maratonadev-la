@@ -1,0 +1,5 @@
+{
+    "title": "¿Que es Apache Maven?",
+    "url": "https://www.javanicaragua.org/2019/09/21/introduccion-a-maven-primeros-pasos/",
+    "body": "Es una herramienta libre (Software Libre)  que ayuda a simplificar la  construcción y administración de proyectos basados en Java. Cuenta con un modelo de configuración de construcción simple, basado en un formato xml.\nMaven puede administrar la construcción, los informes y la documentación de un proyecto a partir de una información central."
+}

@@ -1,0 +1,5 @@
+{
+    "title": "Conozcamos la directiva ng-template",
+    "url": "https://profile.es/blog/angular-templates-las-directivas-ng-template-ng-container-y-ngtemplateoutlet/",
+    "body": "Esta directiva representa, tal y como se intuye en su nombre, una template de Angular. El contenido de esta etiqueta contendrá una parte de una template que luego se puede reutilizar y añadirse a otras templates para formar la template de un componente."
+}

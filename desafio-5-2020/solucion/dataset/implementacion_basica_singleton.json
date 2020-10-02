@@ -1,0 +1,5 @@
+{
+    "title": "Implementación Básica Singleton Pattern",
+    "url": "https://experto.dev/patron-de-diseno-java-singleton/",
+    "body": "Esta es la forma básica que tendría una clase Singleton. En donde hacemos privado el constructor para evitar su creación con new y definimos un método que nos devuelve siempre la misma instancia."
+}

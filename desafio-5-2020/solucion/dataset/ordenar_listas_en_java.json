@@ -1,0 +1,5 @@
+{
+    "title": "Ordenar Listas en Java",
+    "url": "https://www.oscarblancarteblog.com/2017/02/28/ordenar-listas-en-java/",
+    "body": "Básicamente Java ofrece dos interfaces que serán claves para realizar un ordenamiento simple, las cuales son Comparator  y Comparable, estas dos interfaces atienden contextos diferentes en el ordenamiento de las listas, pues existen dos escenarios concretos"
+}

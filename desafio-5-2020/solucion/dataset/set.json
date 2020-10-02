@@ -1,0 +1,5 @@
+{
+    "title": "4.1. Set",
+    "url": "https://www.adictosaltrabajo.com/2015/09/25/introduccion-a-colecciones-en-java/",
+    "body": "La interfaz Set define una colección que no puede contener elementos duplicados. Esta interfaz contiene, únicamente, los métodos heredados de Collection añadiendo la restricción de que los elementos duplicados están prohibidos."
+}

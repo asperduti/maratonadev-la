@@ -1,0 +1,5 @@
+{
+    "title": "4.2. List",
+    "url": "https://www.adictosaltrabajo.com/2015/09/25/introduccion-a-colecciones-en-java/",
+    "body": "La interfaz List define una sucesión de elementos. A diferencia de la interfaz Set, la interfaz List sí admite elementos duplicados."
+}

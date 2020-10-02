@@ -1,0 +1,5 @@
+{
+    "title": "Patrón de diseño Strategy en Java",
+    "url": "https://experto.dev/patron-de-diseno-strategy-en-java/",
+    "body": "El patrón de diseño Strategy en Java ayuda a definir diferentes comportamientos o funcionalidades que pueden ser cambiadas en tiempo de ejecución.\nEn el patrón Strategy creamos diferentes clases que representan estrategias y que podremos usar según alguna variación o input."
+}

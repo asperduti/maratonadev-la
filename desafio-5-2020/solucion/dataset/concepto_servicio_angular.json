@@ -1,0 +1,5 @@
+{
+    "title": "Concepto de servicio en Angular",
+    "url": "https://desarrolloweb.com/articulos/servicios-angular.html",
+    "body": "Básicamente un servicio es un proveedor de datos, que mantiene lógica de acceso a ellos y operativa relacionada con el negocio y las cosas que se hacen con los datos dentro de una aplicación. Los servicios serán consumidos por los componentes, que delegarán en ellos la responsabilidad de acceder a la información y la realización de operaciones con los datos."
+}

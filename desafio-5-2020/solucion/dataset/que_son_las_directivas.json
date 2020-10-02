@@ -1,0 +1,5 @@
+{
+    "title": "¿Qué son las directivas?",
+    "url": "https://www.acontracorrientech.com/directives-en-angular-guia-practica/",
+    "body": "Las directivas (en inglés, directives), junto con los componentes, son una pieza clave para poder construir aplicaciones con Angular. Son, esencialmente, instrucciones para manipular el DOM. De hecho, los componentes son un tipo de directiva, ya que cuando usamos el selector de un componente, le estamos pidiendo a Angular que muestre dicho componente (y su lógica de programación) en algún lugar determinado del DOM.\nPor esta razón, podemos afirmar que los componentes son directives, pero con una template, es decir, con un archivo HTML detrás. Existen otras directivas sin template, como cualquier directive personalizada que podamos crear nosotros mismos (en inglés, custom directive)."
+}

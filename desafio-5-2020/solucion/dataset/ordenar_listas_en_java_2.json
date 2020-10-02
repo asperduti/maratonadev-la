@@ -1,0 +1,5 @@
+{
+    "title": "Ordenar Listas en Java",
+    "url": "https://www.oscarblancarteblog.com/2017/02/28/ordenar-listas-en-java/",
+    "body": "El escenario más simple para ordenar un Lista, es cuando sus elementos están preparados para ser ordenados, esto implica que los elementos de la lista implementan la interface Comparable. Al implementar esta interface, las clases deberá implementar el método public interface Comparable<T>, el cual sirve para comprar un objeto contra otro, este método recibe como parámetro otro objeto, el cual utilizaremos para comprarlo contra el actual para responder con un entero"
+}

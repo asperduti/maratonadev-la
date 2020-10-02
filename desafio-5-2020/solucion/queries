@@ -1,0 +1,75 @@
+Un componente es un bloque, que contiene un template, contiene estilos , contiene lógica.
+Los componentes son como etiquetas html nuevas que podemos inventarnos para realizar las funciones necesarias.
+Los componentes son pequeñas partes lógicas de la aplicación, que van a estar representando a un trozo de la pantalla.
+Un componente es un elemento reutilizable.
+Un componente en Angular es una combinación de un archivo html con un ts y algunas veces scss para crear un elemento con caracteristicas propias tanto de comportamiento como de apariencia que se puede mostrar en un navegador.
+Un componente en Angular es un bloque de código re-utilizable
+
+Una directiva es una instrucción que modifica el DOM
+La finalidad de una directiva es modificar o crear un comportamiento totalmente nuevo.
+Las directivas de Angular son básicamente funciones que son invocadas cuando el DOM es compilado por el framework de Angular
+Las Directivas extienden la funcionalidad del HTML usando para ello una nueva sintaxis. Con ella podemos usar lógica que será ejecutada en el DOM
+es una instrucción que modifica el DOM
+es una función que modifica el DOM
+es para modificar el dom
+
+Un Servicio en Angular es el mecanismo para compartir funcionalidad entre componentes
+Los servicios son clases que se encargan de acceder a los datos para entregarlos a los componentes.
+
+Es una clase que sirve para organizar la aplicación ordendando la en bloques
+Su propósito es organizar las partes de nuestra aplicación.
+Los módulos en AngularJS son una pieza fundamental en el desarrollo cotidiano, ya que nos sirven para organizar el código en librerías
+Podríamos decir los módulos son contenedores de diferentes partes de nuestra aplicación.
+Módulo es un contenedor en diferentes partes de la aplicación.
+
+Redux es un patrón de arquitectura de datos que permite manejar el estado de la aplicación de una manera predecible.
+Redux es una herramienta para la gestión de estado en apps Javascript
+una librería que implementa el patrón de diseño flux ayudando así a manejar el estado de una aplicación
+
+ng-template se usa para la directiva estructural como ng-if, ng-for y ng-switch. g-container se utiliza cuando no tiene una envoltura o contenedor principal adecuado.
+ng-container es una directiva que principalmente nos da un lugar donde inyectar ng-template sin tener que agregar elementos extras en el DOM y sin crear elementos que posiblemente puedan afectar nuestro CSS
+
+La principal diferencia es que una interfaz no tiene ninguna implementación, mientras que las clases abstractas también pueden tener miembros y métodos con un cuerpo, es decir, se pueden implementar parcialmente.
+La principal diferencia entre una clases convencional y una clase abstracta es que la clase abstracta debe poseer por lo menos un método abstracto.
+Los Interfaces son unas clases completamente abstractas que contiene sólo una colección de métodos abstractos y propiedades constantes
+Una interfaz se diferencia de una clase abstracta porque una interfaz sólo puede contener constantes y métodos abstractos. Una clase abstracta puede contener métodos concretos, una interfaz no.
+
+Se debe implementar un Comparator e incluirlo en la función Collections.sort
+una forma sencilla de ordenar listas en java usando dos métodos estáticos de la clase java.util.Collections e implementando dos interfaces Comparable y Comparator.
+
+La Interface Map en Java, nos permite representar una estructura de datos para almacenar pares clave/valor, de tal manera que para una clave solamente tenemos un valor
+Map es una interfaz que define el comportamiento general de una estructura que mantiene una relación de clave valor
+Interface que representa un mapa de pares clave/valor.
+
+En Java Set representa a un conjunto, es decir que es como una lista, pero sin repetidos
+Es una colección que no permite elementos repetidos.
+Un set es una coleccion que no puede contener elementos duplicados
+
+En Java List es una lista simplemente enlazada que permite repetidos
+Es una coleccion de datos que admite elementos duplicados
+
+Este patrón es aplicable en sistemas en los que se desea poder garantizar que solo existe una instancia de una clase
+tiene la peculiaridad de que solo puede instanciar un único objeto
+El patrón singleton, se asegura de que sólo exista una instancia de esa clase
+es un patron de diseño en el que solo se permite una unica instancia de la clase
+
+El patron Strategy es un patrón de diseño que permite definir una estrategia a diferentes objetos y que luego cuando se los invoque, el objeto haga lo que se definió en la estrategia
+
+Este patrón se implementa haciendo privado el constructor de la clase y creando un método, en la propia clase, que crea una instancia del objeto si este no existe.
+necesitamos en primer lugar que su constructor sea privado. De esa forma ningún programa será capaz de construir objetos de esta tipo . En segundo lugar necesitaremos disponer de una variable estatica privada que almacene una referencia al objeto que vamos a crear a traves del constructor . Por ultimo un método estático publico que se encarga de instanciar el objeto la primera vez y almacenarlo en la variable estática.
+creando una clase regular y asegurándose de que tenga, Un constructor privado, Un campo estático que contiene su única instancia, Un método de fábrica estático para obtener la instancia
+
+Un pom.xml sirve para identificar dependencias y plugins. Maven resuelve las dependencias definidas en el pom.
+Maven utiliza el pom.xml para resolver las dependencias de su proyecto, qué complementos ejecutar y muchas otras cosas.
+Un modelo de objeto de proyecto o POM es la unidad fundamental de trabajo en Maven. Es un archivo XML que contiene información sobre el proyecto y los detalles de configuración utilizados por Maven para construir el proyecto.
+es un fichero XML, que es la “unidad” principal de un proyecto Maven. Contiene información a cerca del proyecto, fuentes, test, dependencias, plugins, version
+es un fichero que contiene datos de configuración de nuestro proyecto, como dependencias con otros jar, tipos de informes que queremos en la página web de nuestro proyecto
+se utiliza para listar los requerimientos del proyecto y maven se encarga de resolverlos
+
+
+
+Son dos elementos relacionados, similares, pero con diferencias bastante marcadas.
+Son lo mismo
+Hay que desarrollar un codigo con un comparando cada objeto
+Es el patrón de los solteros
+Buscaria ayuda de un amigo

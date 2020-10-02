@@ -1,0 +1,5 @@
+{
+    "title": "¿Qué es REDUX?",
+    "url": "https://medium.com/@ogomez/guia-rapida-para-entender-el-patron-redux-y-angular-con-ngrx-e60d39d35f1b",
+    "body": "REDUX es una librería de JavaScript que, a grandes rasgos, es el contenedor del estado de tu aplicación. Y decímos contenedor por que básicamente la información de toda tu aplicación se concentra en un solo lugar llamado Store. Este patrón no es exclusivo de un framework, ya que podemos implementarlo en aplicaciones hechas en React, Vue, Angular o JavaScript puro."
+}

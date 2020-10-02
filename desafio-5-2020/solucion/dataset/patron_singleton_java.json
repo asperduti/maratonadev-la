@@ -1,0 +1,5 @@
+{
+    "title": "Patrón de diseño Singleton en Java",
+    "url": "https://experto.dev/patron-de-diseno-java-singleton/",
+    "body": "Este es uno de los patrones más conocidos y es quizás el primero que se nos viene a la cabeza cuando nos preguntas sobre patrones de diseño en Java.\nEl objetivo es que una clase sólo tenga una instancia viva y garantizar que esto suceda."
+}

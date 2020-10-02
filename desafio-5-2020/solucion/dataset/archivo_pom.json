@@ -1,0 +1,5 @@
+{
+    "title": "Archivo POM",
+    "url": "https://www.javanicaragua.org/2019/09/21/introduccion-a-maven-primeros-pasos/",
+    "body": "Como podemos ver en árbol de directorios también tenemos un archivo llamado pom.xml (Project Object Model por su siglas en ingles), este archivo es un xml el cual es utilizado por maven entre otras cosas, para especificar configuración de dependencias del proyecto, los parámetros de compilación, los perfiles de compilación, etc."
+}

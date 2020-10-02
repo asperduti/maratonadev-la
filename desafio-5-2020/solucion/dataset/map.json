@@ -1,0 +1,5 @@
+{
+    "title": "4.3. Map",
+    "url": "https://www.adictosaltrabajo.com/2015/09/25/introduccion-a-colecciones-en-java/",
+    "body": "La interfaz Map asocia claves a valores. Esta interfaz no puede contener claves duplicadas y; cada una de dichas claves, sólo puede tener asociado un valor como máximo."
+}

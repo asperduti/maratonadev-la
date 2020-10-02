@@ -1,0 +1,5 @@
+{
+    "title": "Ordenar Listas en Java",
+    "url": "https://www.oscarblancarteblog.com/2017/02/28/ordenar-listas-en-java/",
+    "body": "Por otra parte, las clases que no implementan Comparable no podrán ser ordenadas de forma natural, por lo que tendremos que recurrir a la interface Comparator, la cual sirve para crear una clase externa que ayude al ordenamiento de los Objetos sin modificar la estructura de las clases existentes. Para lo cual será necesario crear una nueva clase que implementa la interface Comparator y con ello el método int compare(T o1, T o2), el cual funciona exactamente igual que el de la interface Comparable, solo que este recibe como parámetros los dos objetos que será comparados."
+}
