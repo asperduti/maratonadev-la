@@ -5,17 +5,25 @@
 
 # Desafio 08 | Digital House
 
-- [1. Acerca de Digital House](#1-acerca-de-digital-house)
-  - [1.1. Becas de Digital House](#11-becas-de-digital-house)
-- [2. Reto de negocio](#2-reto-de-negocio)
-- [3. Objetivo](#3-objetivo)
-- [4. Desarrollando la solución](#4-desarrollando-la-solución)
-  - [4.1. La tecnología del reto](#41-la-tecnología-del-reto)
-  - [4.2. Pre-requisitos](#42-pre-requisitos)
-  - [4.3. Resumen de las tareas](#43-resumen-de-las-tareas)
-  - [4.4. Desarrollo](#44-desarrollo)
-- [5. Envío](#5-envío)
-- [6. Sobre la evaluación](#6-sobre-la-evaluación)
+- [Desafio 08 | Digital House](#desafio-08--digital-house)
+  - [Para Ayudarte](#para-ayudarte)
+  - [1. Acerca de Digital House](#1-acerca-de-digital-house)
+    - [1.1 Becas de Digital House](#11-becas-de-digital-house)
+  - [2. Reto de negocio](#2-reto-de-negocio)
+  - [3. Objetivo](#3-objetivo)
+  - [4. Desarrollando la solución](#4-desarrollando-la-solución)
+    - [4.1. La tecnología del reto](#41-la-tecnología-del-reto)
+    - [4.2. Pre-requisitos](#42-pre-requisitos)
+    - [4.3. Resumen de las tareas](#43-resumen-de-las-tareas)
+    - [4.4. Desarrollo](#44-desarrollo)
+  - [5. Envío](#5-envío)
+  - [6. Sobre la evaluación](#6-sobre-la-evaluación)
+  - [7. Solución propuesta](#7-solución-propuesta)
+    - [Notebook](#notebook)
+    - [Video](#video)
+  - [Material de apoyo](#material-de-apoyo)
+  - [Solución de problemas](#solución-de-problemas)
+  - [Licencia](#licencia)
 
 ## Para Ayudarte
 
@@ -120,6 +128,14 @@ En esencia, el reto puntuará la respuesta de su modelo en un archivo csv. En es
 La rapidez de entrega no se incluye en el cálculo de la puntuación del desafío. Sin embargo, para todos los participantes que presenten este desafío en la primera semana después del lanzamiento, recibirán una bonificación del 10% en la puntuación final de la entrega.
 
 Recuerde que tiene 1 oportunidade de envío de la solución del reto.
+
+## 7. Solución propuesta
+
+### [Notebook](notebook-solucion.ipynb)
+
+### Video
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iMNFI_xrKxU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Material de apoyo
 
