@@ -5,8 +5,8 @@
 
 ## Final Challenge | Red Hat
 
-- <a href="/doc/instructions/pt-br.md">Portuguese instructions</a>;
-- <a href="/doc/instructions/es.md">Spanish instructions</a>.
+- <a href="/desafio-9-2020/doc/instructions/pt-br.md">Portuguese instructions</a>;
+- <a href="/desafio-9-2020/doc/instructions/es.md">Spanish instructions</a>.
 
 ## License
 
